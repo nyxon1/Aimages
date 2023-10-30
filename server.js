@@ -13,14 +13,15 @@ const openai = new OpenAi({
 //const openai = new OpenAiApi(configuration);
 
 app.post('/images', async (req, res) => {
+
     try {  
       const response = await openai.images.generate({
-        prompt: "A cute baby sea otter",
-        n: 2,
+        prompt: req.body.message,
+        n: 1,
         size: "1024x1024",
       });
-      console.log(response.data.data)
-      res.send(response.data.data)
+      console.log(response)
+      res.send(response.data)
     } catch (error) {
       console.error(error);
       res.status(500).send('Błąd podczas generowania obrazu');
