@@ -7,7 +7,7 @@ body {
   padding: 0;
   width: 100vw;
   height: 100vh;
-  background-color: #fafafc;
+  background-color: #faafafc;
   color: #777;
   display: flex;
   justify-content: center;
@@ -37,6 +37,7 @@ p {
   font-weight: 600;
   padding: 4px 12px;
   margin: 0 0 2px 5px;
+  cursor: pointer;
 
 }
 
@@ -140,4 +141,19 @@ p {
   height: 256px;
   width: 256px;
   overflow: hidden;
+}
+
+.upload {
+  cursor: pointer;
+  text-decoration-line: underline;
+}
+
+.logo {
+  display: flex;
+  max-width: 100%;
+  height: auto; 
+  justify-content: center;
+  align-items:center;
+  height: 40vh;
+  
 }

@@ -1,5 +1,7 @@
 import { useState } from "react"
 import Modal from "./components/modal"
+import logo from './logo.png';
+
 
 const App = () => {
   const [images, setImages] = useState(null)
@@ -9,7 +11,7 @@ const App = () => {
   const[modalOpen, setModalOpen] = useState(false)
   const surpriseOptions = [
     'A blue ostrich eating melon',
-    'A matisse style shark on the telephone',
+    'MegaK student programing on computer',
     'Black Ford Mustang burnout on the street'
   ]
 
@@ -90,6 +92,7 @@ const uploadImage = async(e) => {
   }
   return (
     <div className="App"> 
+    <img src={logo} alt="Logo" className="logo" />
       <section className="search-section">
         <p>Start with a detailed description 
           <span className="surprise" onClick={surpriseMe}>Surprise me</span>
@@ -105,7 +108,7 @@ const uploadImage = async(e) => {
           </div>
           <p className="extra-info">Or,
             <span>
-              <label htmlFor="files"> upload an image </label>
+              <label className="upload" htmlFor="files"> upload an image </label>
               <input onChange={uploadImage} id="files" accept="image/*" type="file" hidden/>
             </span>
             to edit.
