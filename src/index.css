@@ -19,7 +19,7 @@ p {
 }
 
 .app {
-  width: 90vw;
+  width: 100vw;
 }
 
 .search-section {
@@ -37,6 +37,7 @@ p {
   font-weight: 600;
   padding: 4px 12px;
   margin: 0 0 2px 5px;
+  cursor: pointer;
 
 }
 
@@ -140,4 +141,9 @@ p {
   height: 256px;
   width: 256px;
   overflow: hidden;
+}
+
+.upload {
+  cursor: pointer;
+  text-decoration-line: underline;
 }
