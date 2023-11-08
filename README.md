@@ -2,7 +2,7 @@
 # AImages 1.0
 <img class="centerImage" alt= "AImage logo" src= "https://github.com/nyxon1/Aimages/blob/523e0a8698c8eb3fafca4779b3dd0f899e72b449/src/logo.png">
 
-AImages 1.0 is an innovative image generation tool powered by the DALL·E 2 API model, which is an advanced AI model developed by OpenAI. This cutting-edge technology leverages the power of deep learning to create unique and visually compelling images based on text prompts. With AImages 1.0, you can generate a wide range of images by simply providing textual descriptions, making it a versatile and creative tool for various applications.. You can generate image in three diferent ways.
+AImages 1.0 is an innovative image generation tool powered by the DALL·E 2 API model, which is an advanced AI model developed by OpenAI. This cutting-edge technology leverages the power of deep learning to create unique and visually compelling images based on text prompts. With AImages 1.0, you can generate a wide range of images by simply providing textual descriptions, making it a versatile and creative tool for various applications. You can generate image in three diferent ways.
 
  1. Prompt to image:
     
