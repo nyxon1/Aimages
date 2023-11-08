@@ -18,7 +18,7 @@ AImages 1.0 is a prompt to image generator based on DALLE 2 API model. You can g
 
 
 ## Demo
-<img src= "https://github.com/nyxon1/Aimages/blob/40386ddc8d468e43ca101189ebd2aa3c3b2b5f60/IMG_0956.GIF" > 
+<img src= "https://github.com/nyxon1/Aimages/blob/cb0261d705164bd609ce28ecfdacf5fd0e774261/IMG_0958.gif" > 
 
 ## Environment Variables
 
