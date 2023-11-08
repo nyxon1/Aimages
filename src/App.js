@@ -2,6 +2,12 @@ import { useState } from "react";
 import Modal from "./components/modal";
 import logo from './logo.png';
 
+const Logo = () => (
+  <div className="logo-container">
+    <img src={logo} alt="Logo" className="logo" />
+  </div>
+);
+
 const App = () => {
   const [images, setImages] = useState(null);
   const [value, setValue] = useState(null);
@@ -90,7 +96,11 @@ const App = () => {
 
   return (
     <div className="App"> 
-      <img src={logo} alt="Logo" className="logo" />
+     <header>
+     <div className="logo-container">
+    <img src={logo} alt="Logo" className="logo" />
+  </div>
+     </header>
       <section className="search-section">
         <p>Start with a detailed description 
           <span className="surprise" onClick={surpriseMe}>Surprise me</span>

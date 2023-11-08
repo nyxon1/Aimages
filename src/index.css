@@ -81,7 +81,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   align-items: stretch;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .image-section img {
@@ -147,14 +147,16 @@ p {
   cursor: pointer;
   text-decoration-line: underline;
 }
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .logo {
   display: flex;
-  max-width: 100%;
-  position: relative;
-  align-items:center;
-  flex-direction: column;
-  display: flex;
+  align-items: center;
   justify-content: center;
   height: 25vh;
+  max-width: 100%;
 }
