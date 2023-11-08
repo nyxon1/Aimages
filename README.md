@@ -45,6 +45,11 @@ Because i am not an Artist :)
 
 On branch "Typescript" i am working on migration from JS to TS. For now I have some conflict with Typescript versions in this project. For your safety use only the stable version on main branch. 
 
+## Tech Stack
+
+**Client:** React,
+
+**Server:** Node, Express
 
 ## Author
 
