@@ -1,6 +1,6 @@
 
 # AImages 1.0
-<centre><img alt= "AImage logo" src= "https://github.com/nyxon1/Aimages/blob/523e0a8698c8eb3fafca4779b3dd0f899e72b449/src/logo.png">
+<centre><img alt= "AImage logo" src= "https://github.com/nyxon1/Aimages/blob/523e0a8698c8eb3fafca4779b3dd0f899e72b449/src/logo.png"></centre>
 
 AImages 1.0 is a prompt to image generator based on DALLE 2 API model. You can generate image in three diferent ways.
 
