@@ -4,13 +4,16 @@
 
 AImages 1.0 is a prompt to image generator based on DALLE 2 API model. You can generate image in three diferent ways.
 
-# 1. Prompt to image:
+ 1. Prompt to image:
+    
 -just write your text in search section and click "Generate" button.
 
-# 2. Suprise me:
+ 2. Suprise me:
+    
 -click on the "Suprise me" to fill search section with random text and then "generate" button.
 
-# 3. Generate variation:
+ 3. Generate variation:
+    
 -click on the "uploand an image" and choose a .png file from your computer. (image must be a 256 x 256 png file!)
 
 **For now generated images are limited to 1 photo only because of OpenAi fees*
