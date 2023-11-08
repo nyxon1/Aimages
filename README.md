@@ -17,7 +17,7 @@ For now generated images are limited to 1 photo only because of OpenAi fees.
 
 
 ## Demo
-<img src= "https://ibb.co/NmzgpZm" > 
+<img src= "[https://ibb.co/NmzgpZm](https://github.com/nyxon1/Aimages/blob/5887d4fb475d707f8465e9cd432910d051065a54/public/IMG_0950.GIF)" > 
 
 ## Environment Variables
 
