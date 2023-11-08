@@ -1,5 +1,5 @@
-import { useState } from "react"
-import Modal from "./components/modal"
+import { useState } from "react";
+import Modal from "./components/modal";
 import logo from './logo.png';
 
 

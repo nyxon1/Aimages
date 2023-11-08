@@ -7,7 +7,7 @@ body {
   padding: 0;
   width: 100vw;
   height: 100vh;
-  background-color: #faafafc;
+  background-color: #fafaafc;
   color: #777;
   display: flex;
   justify-content: center;
@@ -151,9 +151,10 @@ p {
 .logo {
   display: flex;
   max-width: 100%;
-  height: auto; 
-  justify-content: center;
+  position: relative;
   align-items:center;
-  height: 40vh;
-  
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  height: 25vh;
 }
