@@ -13,7 +13,7 @@ AImages 1.0 is a prompt to image generator based on DALLE 2 API model. You can g
 3. Generate variation:
 -click on the "uploand an image" and choose a .png file from your computer. (image must be a 256 x 256 png file!)
 
-For now generated images are limited to 1 photo only because of OpenAi fees. 
+*For now generated images are limited to 1 photo only because of OpenAi fees*
 
 
 
