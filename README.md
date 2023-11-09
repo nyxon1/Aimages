@@ -54,7 +54,8 @@ Sign up/login form.
 
 Save button. - Saving images has been blocked by CORS policy. First I need to create DB. 
 
-All features comming soon in V2.0 :)
+All features comming soon in paid V2.0
+(for all MegaK teachers free premium account) :)
 
 ## Tech Stack
 
