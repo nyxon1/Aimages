@@ -47,7 +47,7 @@ const App = () => {
       console.log(data);
       setImages(data);
     } catch (error) {
-      console.error("Błąd parsowania danych JSON:", error);
+      console.error("JSON data parsing error:", error);
     }
   };
 
