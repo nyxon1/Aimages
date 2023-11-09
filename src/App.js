@@ -106,7 +106,9 @@ const App = () => {
           <span className="surprise" onClick={surpriseMe}>Surprise me</span>
         </p>
         <div className="input-container">
-          <input 
+          <input
+            id="searchInput" 
+            name="searchInput"
             value={value}
             placeholder="An impressionist oil 
             painting of a sunflower in a purple vase..."
