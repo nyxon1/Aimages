@@ -51,7 +51,9 @@ On branch "Typescript" i am working on migration from JS to TS. For now I have s
 
 ## Working on
 Sign up/login form. 
+
 Save button. - Saving images has been blocked by CORS policy. First I need to create DB. 
+
 All features comming soon in V2.0 :)
 
 ## Tech Stack
